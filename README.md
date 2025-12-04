@@ -19,10 +19,10 @@
 
 ### 👨‍💻 Sobre mim
 
-                                                Em seguida ouvi a voz do Senhor que dizia:
-                                                "Quem hei de enviar? Quem irá por nós?",
-                                                 ao que respondi: "Eis-me aqui, envia-me a mim".
-                                                                                     Isaías 6,8
+                                              Em seguida ouvi a voz do Senhor que dizia:
+                                              "Quem hei de enviar? Quem irá por nós?",
+                                              ao que respondi: "Eis-me aqui, envia-me a mim".
+                                                                                  Isaías 6,8
                                                              
 - 🚀 Foco em desenvolvimento Web Front-End e um pouco de Back-end (HTML, CSS, JS, TypeScript, NodeJS, React e MySQL)
 - 🎯 Estudando e buscando ser um Desenvolvedor Completo aprimorando e aperfeiçoando meus conhecimentos
