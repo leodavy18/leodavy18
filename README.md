@@ -77,7 +77,7 @@
 
 ---
 
-<h4 align="center">🚀 Obrigado pela visita! Vamos construir juntos! 🚀</h4>
+<h4 align="center"> Gratidão pela visita! Que Deus te abençoe grandemente vamos juntos! </h4>
 
 <!---
 leodavy18/leodavy18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
