@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Fala%2C+devs!+Seja+bem-vindo(a)+ao+meu+perfil;Meu+nome+é+Leonardo+Davy;Sou+desenvolvedor+Front-End+apaixonado+por+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Fala%2C+devs!+Seja+bem-vindo(a)+ao+meu+perfil;Meu+nome+é+Leonardo+Davy;Sou+desenvolvedor+Full-Stack+apaixonado+por+tecnologia)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
                                               ao que respondi: "Eis-me aqui, envia-me a mim".
                                                                                   Isaías 6,8
                                                              
-- 🚀 Foco em desenvolvimento Web Front-End e um pouco de Back-end (HTML, CSS, JS, TypeScript, NodeJS, React e MySQL)
+- 🚀 Foco em desenvolvimento full-stack (HTML, CSS, JS, TypeScript, NodeJS, React e MySQL)
 - 🎯 Estudando e buscando ser um Desenvolvedor Completo aprimorando e aperfeiçoando meus conhecimentos
 - 📚 Criando e buscando novas ideas, e agregando valor para o mundo Dev
 - 🧠 Explorando comandos avançados, terminal e ferramentas de automação
